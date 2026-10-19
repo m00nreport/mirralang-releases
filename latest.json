@@ -1,0 +1,22 @@
+{
+  "version": "0.5.1",
+  "pub_date": "2026-10-19T06:46:22Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://raw.githubusercontent.com/m00nreport/mirralang-releases/updates/Mirralang.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNmlUZGFhV3F4YkpjeWp2b0xERzNHSlNQenNsU25SMmxNQ21ZVmZUbFlXcDlySVVIR3pjS0VvRnh1OUNheS9yVG8vVEpIZ0JIUFR3UCtCVWlscUhQU0JhOU9HZjR4dUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzkyMTUwCWZpbGU6TWlycmFsYW5nLmFwcC50YXIuZ3oJdmVyc2lvbjowLjUuMQoxbzVkTExlMTRpTGt4OTNNTmRIVmNldWh0MkxJUlV5Q0FoUzlqSmpEUENmOS9ndlhVVnQ2TkF3Z0V6bVJtRWR2NklrbC81SXN6d0I1YytFSDk2NU9EUT09Cg=="
+    },
+    "darwin-aarch64-app": {
+      "url": "https://raw.githubusercontent.com/m00nreport/mirralang-releases/updates/Mirralang.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNmlUZGFhV3F4YkpjeWp2b0xERzNHSlNQenNsU25SMmxNQ21ZVmZUbFlXcDlySVVIR3pjS0VvRnh1OUNheS9yVG8vVEpIZ0JIUFR3UCtCVWlscUhQU0JhOU9HZjR4dUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzkyMTUwCWZpbGU6TWlycmFsYW5nLmFwcC50YXIuZ3oJdmVyc2lvbjowLjUuMQoxbzVkTExlMTRpTGt4OTNNTmRIVmNldWh0MkxJUlV5Q0FoUzlqSmpEUENmOS9ndlhVVnQ2TkF3Z0V6bVJtRWR2NklrbC81SXN6d0I1YytFSDk2NU9EUT09Cg=="
+    },
+    "windows-x86_64": {
+      "url": "https://github.com/m00nreport/mirralang-releases/releases/download/v0.5.1/Mirralang_0.5.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNmlUZGFhV3F4Yk04OU9NTlRFTkF6TmFHNjI0UjBXMjNvbEJNTmMvTUx1K1JVRnpPWWVRYjBIYVFPVitrWG1CYlpTUkZlVENEM3k3YWd1L2FSYkNXd2hNZkdHb0dPS1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzkyMzYzCWZpbGU6TWlycmFsYW5nXzAuNS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMQphb0NGdlpHR1kzcW56bnEwM01ieUZPbjh0bDVpRmk5UXdhVllFd3J0b056Zm9mVkhJWUtkTzBvSnRmNzJGVmZzcnRxV3ZranVzL2p6aFBmcGxSb0NBdz09Cg=="
+    },
+    "windows-x86_64-nsis": {
+      "url": "https://github.com/m00nreport/mirralang-releases/releases/download/v0.5.1/Mirralang_0.5.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNmlUZGFhV3F4Yk04OU9NTlRFTkF6TmFHNjI0UjBXMjNvbEJNTmMvTUx1K1JVRnpPWWVRYjBIYVFPVitrWG1CYlpTUkZlVENEM3k3YWd1L2FSYkNXd2hNZkdHb0dPS1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzkyMzYzCWZpbGU6TWlycmFsYW5nXzAuNS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMQphb0NGdlpHR1kzcW56bnEwM01ieUZPbjh0bDVpRmk5UXdhVllFd3J0b056Zm9mVkhJWUtkTzBvSnRmNzJGVmZzcnRxV3ZranVzL2p6aFBmcGxSb0NBdz09Cg=="
+    }
+  }
+}
